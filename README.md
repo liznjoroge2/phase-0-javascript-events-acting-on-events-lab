@@ -27,12 +27,7 @@ how to move an element on a page in response to an _event_.
 
 If you haven't already, **fork and clone** this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
-in Visual Studio Code.
-
-Go ahead and run the tests. You'll see that you need to create two functions to
-get the tests passing: `moveDodgerLeft()` and `moveDodgerRight()`. We'll write
-`moveDodgerLeft()` together, then you'll create `moveDodgerRight()` on your own.
-
+in Visual Studio Code
 ## Practice Moving Elements on the Page
 
 ![Rock Dodger!](https://curriculum-content.s3.amazonaws.com/phase-0/acting-on-events-lab/rock-dodger.png)
